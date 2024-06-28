@@ -1,0 +1,14 @@
+.container {
+  padding: 0 2rem;
+  background-image: url(../public/image.png) ;
+  color: white;
+}
+
+.main {
+  min-height: 100vh;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
